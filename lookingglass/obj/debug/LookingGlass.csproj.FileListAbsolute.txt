@@ -1,0 +1,66 @@
+C:\Temp\LookingGlass\LookingGlass\bin\Debug\LookingGlass.exe.config
+C:\Temp\LookingGlass\LookingGlass\bin\Debug\LookingGlass.exe
+C:\Temp\LookingGlass\LookingGlass\bin\Debug\LookingGlass.pdb
+C:\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.csprojResolveAssemblyReference.cache
+C:\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.DataModule.resources
+C:\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.MainForm.resources
+C:\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.Properties.Resources.resources
+C:\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.csproj.GenerateResource.Cache
+C:\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.csproj.CoreCompileInputs.cache
+C:\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.exe
+C:\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.pdb
+C:\Temp\lookingglass\LookingGlass\bin\Debug\aa\LookingGlass.resources.dll
+C:\Temp\lookingglass\LookingGlass\obj\Debug\LookingGlass.AssignSkillToCandidateForm.resources
+C:\Temp\lookingglass\LookingGlass\obj\Debug\LookingGlass.AssignSkillToVacancyForm.resources
+C:\Temp\lookingglass\LookingGlass\obj\Debug\LookingGlass.CandidateMaintenanceForm.resources
+C:\Temp\lookingglass\LookingGlass\obj\Debug\LookingGlass.EmployerMaintenanceForm.resources
+C:\Temp\lookingglass\LookingGlass\obj\Debug\LookingGlass.VacancyMaintenanceForm.resources
+C:\Temp\lookingglass\LookingGlass\obj\Debug\LookingGlass.EmployerMaintenanceForm.aa.resources
+C:\Temp\lookingglass\LookingGlass\obj\Debug\aa\LookingGlass.resources.dll
+C:\Temp\lookingglass\LookingGlass\obj\Debug\LookingGlass.ApplicationMaintenanceForm.resources
+C:\Temp\lookingglass\LookingGlass\obj\Debug\LookingGlass.VacanciesReportForm.resources
+C:\Temp\lookingglass\LookingGlass\obj\Debug\LookingGlass.CandidateReportForm.resources
+C:\Temp\Assignment_Zhang\LookingGlass\bin\Debug\LookingGlass.exe.config
+C:\Temp\Assignment_Zhang\LookingGlass\bin\Debug\LookingGlass.exe
+C:\Temp\Assignment_Zhang\LookingGlass\bin\Debug\LookingGlass.pdb
+C:\Temp\Assignment_Zhang\LookingGlass\bin\Debug\aa\LookingGlass.resources.dll
+C:\Temp\Assignment_Zhang\LookingGlass\obj\Debug\LookingGlass.csprojResolveAssemblyReference.cache
+C:\Temp\Assignment_Zhang\LookingGlass\obj\Debug\LookingGlass.ApplicationMaintenanceForm.resources
+C:\Temp\Assignment_Zhang\LookingGlass\obj\Debug\LookingGlass.AssignSkillToCandidateForm.resources
+C:\Temp\Assignment_Zhang\LookingGlass\obj\Debug\LookingGlass.AssignSkillToVacancyForm.resources
+C:\Temp\Assignment_Zhang\LookingGlass\obj\Debug\LookingGlass.CandidateMaintenanceForm.resources
+C:\Temp\Assignment_Zhang\LookingGlass\obj\Debug\LookingGlass.CandidateReportForm.resources
+C:\Temp\Assignment_Zhang\LookingGlass\obj\Debug\LookingGlass.DataModule.resources
+C:\Temp\Assignment_Zhang\LookingGlass\obj\Debug\LookingGlass.EmployerMaintenanceForm.resources
+C:\Temp\Assignment_Zhang\LookingGlass\obj\Debug\LookingGlass.MainForm.resources
+C:\Temp\Assignment_Zhang\LookingGlass\obj\Debug\LookingGlass.Properties.Resources.resources
+C:\Temp\Assignment_Zhang\LookingGlass\obj\Debug\LookingGlass.VacanciesReportForm.resources
+C:\Temp\Assignment_Zhang\LookingGlass\obj\Debug\LookingGlass.VacancyMaintenanceForm.resources
+C:\Temp\Assignment_Zhang\LookingGlass\obj\Debug\LookingGlass.EmployerMaintenanceForm.aa.resources
+C:\Temp\Assignment_Zhang\LookingGlass\obj\Debug\LookingGlass.csproj.GenerateResource.cache
+C:\Temp\Assignment_Zhang\LookingGlass\obj\Debug\LookingGlass.csproj.CoreCompileInputs.cache
+C:\Temp\Assignment_Zhang\LookingGlass\obj\Debug\aa\LookingGlass.resources.dll
+C:\Temp\Assignment_Zhang\LookingGlass\obj\Debug\LookingGlass.exe
+C:\Temp\Assignment_Zhang\LookingGlass\obj\Debug\LookingGlass.pdb
+C:\Users\Administrator\Dropbox\Mu\study\S1\6421 GUI\ Assignment 1\mu\Temp final\LookingGlass\bin\Debug\LookingGlass.exe.config
+C:\Users\Administrator\Dropbox\Mu\study\S1\6421 GUI\ Assignment 1\mu\Temp final\LookingGlass\bin\Debug\LookingGlass.exe
+C:\Users\Administrator\Dropbox\Mu\study\S1\6421 GUI\ Assignment 1\mu\Temp final\LookingGlass\bin\Debug\LookingGlass.pdb
+C:\Users\Administrator\Dropbox\Mu\study\S1\6421 GUI\ Assignment 1\mu\Temp final\LookingGlass\bin\Debug\aa\LookingGlass.resources.dll
+C:\Users\Administrator\Dropbox\Mu\study\S1\6421 GUI\ Assignment 1\mu\Temp final\LookingGlass\obj\Debug\LookingGlass.csprojAssemblyReference.cache
+C:\Users\Administrator\Dropbox\Mu\study\S1\6421 GUI\ Assignment 1\mu\Temp final\LookingGlass\obj\Debug\LookingGlass.ApplicationMaintenanceForm.resources
+C:\Users\Administrator\Dropbox\Mu\study\S1\6421 GUI\ Assignment 1\mu\Temp final\LookingGlass\obj\Debug\LookingGlass.AssignSkillToCandidateForm.resources
+C:\Users\Administrator\Dropbox\Mu\study\S1\6421 GUI\ Assignment 1\mu\Temp final\LookingGlass\obj\Debug\LookingGlass.AssignSkillToVacancyForm.resources
+C:\Users\Administrator\Dropbox\Mu\study\S1\6421 GUI\ Assignment 1\mu\Temp final\LookingGlass\obj\Debug\LookingGlass.CandidateMaintenanceForm.resources
+C:\Users\Administrator\Dropbox\Mu\study\S1\6421 GUI\ Assignment 1\mu\Temp final\LookingGlass\obj\Debug\LookingGlass.CandidateReportForm.resources
+C:\Users\Administrator\Dropbox\Mu\study\S1\6421 GUI\ Assignment 1\mu\Temp final\LookingGlass\obj\Debug\LookingGlass.DataModule.resources
+C:\Users\Administrator\Dropbox\Mu\study\S1\6421 GUI\ Assignment 1\mu\Temp final\LookingGlass\obj\Debug\LookingGlass.EmployerMaintenanceForm.resources
+C:\Users\Administrator\Dropbox\Mu\study\S1\6421 GUI\ Assignment 1\mu\Temp final\LookingGlass\obj\Debug\LookingGlass.MainForm.resources
+C:\Users\Administrator\Dropbox\Mu\study\S1\6421 GUI\ Assignment 1\mu\Temp final\LookingGlass\obj\Debug\LookingGlass.Properties.Resources.resources
+C:\Users\Administrator\Dropbox\Mu\study\S1\6421 GUI\ Assignment 1\mu\Temp final\LookingGlass\obj\Debug\LookingGlass.VacanciesReportForm.resources
+C:\Users\Administrator\Dropbox\Mu\study\S1\6421 GUI\ Assignment 1\mu\Temp final\LookingGlass\obj\Debug\LookingGlass.VacancyMaintenanceForm.resources
+C:\Users\Administrator\Dropbox\Mu\study\S1\6421 GUI\ Assignment 1\mu\Temp final\LookingGlass\obj\Debug\LookingGlass.EmployerMaintenanceForm.aa.resources
+C:\Users\Administrator\Dropbox\Mu\study\S1\6421 GUI\ Assignment 1\mu\Temp final\LookingGlass\obj\Debug\LookingGlass.csproj.GenerateResource.cache
+C:\Users\Administrator\Dropbox\Mu\study\S1\6421 GUI\ Assignment 1\mu\Temp final\LookingGlass\obj\Debug\LookingGlass.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Dropbox\Mu\study\S1\6421 GUI\ Assignment 1\mu\Temp final\LookingGlass\obj\Debug\aa\LookingGlass.resources.dll
+C:\Users\Administrator\Dropbox\Mu\study\S1\6421 GUI\ Assignment 1\mu\Temp final\LookingGlass\obj\Debug\LookingGlass.exe
+C:\Users\Administrator\Dropbox\Mu\study\S1\6421 GUI\ Assignment 1\mu\Temp final\LookingGlass\obj\Debug\LookingGlass.pdb

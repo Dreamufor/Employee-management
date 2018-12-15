@@ -1,0 +1,17 @@
+C:\Temp\LookingGlass\LookingGlass\bin\x86\Debug\LookingGlass.exe.config
+C:\Temp\LookingGlass\LookingGlass\bin\x86\Debug\LookingGlass.exe
+C:\Temp\LookingGlass\LookingGlass\bin\x86\Debug\LookingGlass.pdb
+C:\Temp\LookingGlass\LookingGlass\obj\x86\Debug\LookingGlass.DataModule.resources
+C:\Temp\LookingGlass\LookingGlass\obj\x86\Debug\LookingGlass.MainForm.resources
+C:\Temp\LookingGlass\LookingGlass\obj\x86\Debug\LookingGlass.Properties.Resources.resources
+C:\Temp\LookingGlass\LookingGlass\obj\x86\Debug\LookingGlass.csproj.GenerateResource.Cache
+C:\Temp\LookingGlass\LookingGlass\obj\x86\Debug\LookingGlass.csproj.CoreCompileInputs.cache
+C:\Temp\LookingGlass\LookingGlass\obj\x86\Debug\LookingGlass.exe
+C:\Temp\LookingGlass\LookingGlass\obj\x86\Debug\LookingGlass.pdb
+C:\Temp\LookingGlass\LookingGlass\bin\x86\Debug\aa\LookingGlass.resources.dll
+C:\Temp\LookingGlass\LookingGlass\obj\x86\Debug\LookingGlass.csprojResolveAssemblyReference.cache
+C:\Temp\LookingGlass\LookingGlass\obj\x86\Debug\aa\LookingGlass.resources.dll
+C:\Temp\lookingglass\LookingGlass\obj\x86\Debug\LookingGlass.EmployerMaintenanceForm.resources
+C:\Temp\lookingglass\LookingGlass\obj\x86\Debug\LookingGlass.EmployerMaintenanceForm.aa.resources
+C:\Temp\lookingglass\LookingGlass\obj\x86\Debug\LookingGlass.CandidateMaintenanceForm.resources
+C:\Temp\lookingglass\LookingGlass\obj\x86\Debug\LookingGlass.VacancyMaintenanceForm.resources

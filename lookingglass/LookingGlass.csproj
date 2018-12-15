@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5F5E166C-F05E-449F-B9F2-6F762E2926FD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>LookingGlass</RootNamespace>
+    <AssemblyName>LookingGlass</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationMaintenanceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationMaintenanceForm.Designer.cs">
+      <DependentUpon>ApplicationMaintenanceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AssignSkillToCandidateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssignSkillToCandidateForm.Designer.cs">
+      <DependentUpon>AssignSkillToCandidateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AssignSkillToVacancyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssignSkillToVacancyForm.Designer.cs">
+      <DependentUpon>AssignSkillToVacancyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CandidateMaintenanceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CandidateMaintenanceForm.Designer.cs">
+      <DependentUpon>CandidateMaintenanceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CandidateReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CandidateReportForm.Designer.cs">
+      <DependentUpon>CandidateReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataModule.Designer.cs">
+      <DependentUpon>DataModule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DSLookingGlass.cs">
+      <DependentUpon>DSLookingGlass.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSLookingGlass.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSLookingGlass.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="EmployerMaintenanceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployerMaintenanceForm.Designer.cs">
+      <DependentUpon>EmployerMaintenanceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VacanciesReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VacanciesReportForm.Designer.cs">
+      <DependentUpon>VacanciesReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VacancyMaintenanceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VacancyMaintenanceForm.Designer.cs">
+      <DependentUpon>VacancyMaintenanceForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ApplicationMaintenanceForm.resx">
+      <DependentUpon>ApplicationMaintenanceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AssignSkillToCandidateForm.resx">
+      <DependentUpon>AssignSkillToCandidateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AssignSkillToVacancyForm.resx">
+      <DependentUpon>AssignSkillToVacancyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CandidateMaintenanceForm.resx">
+      <DependentUpon>CandidateMaintenanceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CandidateReportForm.resx">
+      <DependentUpon>CandidateReportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataModule.resx">
+      <DependentUpon>DataModule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployerMaintenanceForm.aa.resx">
+      <DependentUpon>EmployerMaintenanceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployerMaintenanceForm.resx">
+      <DependentUpon>EmployerMaintenanceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="VacanciesReportForm.resx">
+      <DependentUpon>VacanciesReportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VacancyMaintenanceForm.resx">
+      <DependentUpon>VacancyMaintenanceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DSLookingGlass.xsc">
+      <DependentUpon>DSLookingGlass.xsd</DependentUpon>
+    </None>
+    <None Include="DSLookingGlass.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSLookingGlass.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DSLookingGlass.xss">
+      <DependentUpon>DSLookingGlass.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
